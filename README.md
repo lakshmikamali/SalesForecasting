@@ -1,5 +1,12 @@
 # Sales Forecasting Dashboard
 
+## Live Demo
+
+Streamlit App:
+https://salesforecasting-wnrcx4q4tqphofmg8wcw75.streamlit.app/
+
+
+
 ## Project Overview
 
 This project predicts future monthly sales using multiple forecasting models and presents the results through an interactive Streamlit dashboard. The objective is to compare different forecasting techniques and recommend the most suitable model based on evaluation metrics.
